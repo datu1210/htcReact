@@ -1,0 +1,77 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+nav{
+    margin:30px;
+    text-align: center;
+    justify-content:center;
+}
+
+.category{
+    
+    color:#b80a14;
+
+ }
+
+.titulo { 
+    text-align:center;
+    margin:20px;
+    padding:10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.containerCard{
+    box-shadow: -5px 6px 10px 2px #2a384742;
+    margin-bottom: 20px;
+}
+
+.cardItem{
+    text-align:center;
+    justify-items: center;
+}
+
+#precio{
+    font-weight:bold;
+    font-size:18px;
+}
+
+#buttonBuy{
+    align-items:center;
+    font-family: 'Open Sans', sans-serif;
+    background: #b80a14;
+    border: none;
+    padding: 10px;
+    margin: 20px;
+}
+
+.body{
+    align-items:center;
+}
+
+#products{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: space-around;
+}
+
+
+#icon-menu{
+    display: flex;
+    justify-content:center ;
+    background-color: white;
+    height: 100px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+    margin-top: 10px;
+
+}
+
+.icon-area{
+    width: 10%;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+.containerCard{
+    display: flex;
+    box-shadow: -5px 6px 10px 2px #2a384742;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.body{
+    align-items:center;
+}
+
+.cardItem{
+    text-align:center;
+    justify-items: center;
+}
+
+.imgDetalle{
+    width:300px;
+}
+
+#buttonBuy{
+    align-items:center;
+    font-family: 'Open Sans', sans-serif;
+    background: #b80a14;
+    border: none;
+    padding: 10px;
+    margin: 20px;
+}
+
+
